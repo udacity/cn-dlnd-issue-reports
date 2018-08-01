@@ -23,8 +23,7 @@
 
 你可以分配给的优达学城工作人员：
 
-> 无人驾驶入门课程经理：@CheneyZeng
-> 无人驾驶入门社群负责人：@UdacityCelia
+> 深度学习课程经理：@CheneyZeng
 >
 > 本地化负责人：@sylviasun916
 >
